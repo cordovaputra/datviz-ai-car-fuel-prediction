@@ -1,0 +1,32 @@
+{
+  "name": "car-fuel-prediction",
+  "version": "1.0.0",
+  "description": "WebML Marathon Project - Creating a system that predicts how much fuel does a car need to reach certain points using regression and graph visualization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cordovaputra/car-fuel-prediction.git"
+  },
+  "keywords": [
+    "Machine",
+    "Learning",
+    "Javascript",
+    "WebML"
+  ],
+  "author": "Cordova Putra Handri Ansyah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cordovaputra/car-fuel-prediction/issues"
+  },
+  "homepage": "https://github.com/cordovaputra/car-fuel-prediction#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
